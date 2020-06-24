@@ -1,0 +1,8 @@
+
+
+هذه المهمه عشان نختبر مثال جاهز من مكتبة opencv
+
+
+this task to test the output from opencv example
+
+ 
